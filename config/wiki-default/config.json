@@ -1,0 +1,15 @@
+{
+	"site_name"        : "Klodia API Documentation",
+	"site_description" : "Klodia Version 1.0.20; Documentation Version 1.0.20.10 (Last Updated: 30 June 2016); ",
+	"copyright"        : "",
+	"theme"            : "default",
+	"docs_path"        : "data/klodia",
+	"assets_path"      : "data/klodia/assets",
+	"home_route"       : "content-list",
+	"display_chapter"  : true,
+	"display_index"    : false,
+	"rewrite"          : false,
+	"footer_code"      : "",
+	"password"         : "upin&ipin",
+	"cookie_salt"      : "jwhfiweu7445uhhfjbbpeore"
+}

@@ -1,0 +1,15 @@
+{
+	"site_name"        : "Example Documentation",
+	"site_description" : "",
+	"copyright"        : "",
+	"theme"            : "default",
+	"docs_path"        : "data/example",
+	"assets_path"      : "data/example/assets",
+	"home_route"       : "quick-start",
+	"display_chapter"  : true,
+	"display_index"    : false,
+	"rewrite"          : false,
+	"footer_code"      : "",
+	"password"         : "",
+	"cookie_salt"      : "jwhfiweu7445uhhfjbbpeore"
+}
